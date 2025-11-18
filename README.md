@@ -5,7 +5,7 @@
 | Resource            | Link                                                                                        |
 |---------------------|---------------------------------------------------------------------------------------------|
 | **Live Deployment** | [View Deployment](https://earth-credits-hub-32-cn42.vercel.app/homepage)                    |
-| **Source Code** | [GitHub Repository](https://github.com/aryanraj45/blue-carbon-registry)                     |
+| **Source Code** | [GitHub Repository](https://github.com/dakshhhhh16/Blue-Carbon-Registry)                     |
 
 ---
 
