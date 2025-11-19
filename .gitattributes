@@ -2,4 +2,16 @@
 package-lock.json linguist-vendored
 yarn.lock linguist-vendored
 
+# You can also ignore entire directories
 dist/ linguist-vendored
+
+# Mark generated files as linguist-vendored
+*.min.js linguist-vendored
+*.bundle.js linguist-vendored
+*.css.map linguist-vendored
+*.js.map linguist-vendored
+*.dll linguist-vendored
+*.exe linguist-vendored
+*.so linguist-vendored
+*.dylib linguist-vendored           
+*.bin linguist-vendored
