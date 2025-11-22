@@ -14,4 +14,4 @@ dist/ linguist-vendored
 *.exe linguist-vendored
 *.so linguist-vendored
 *.dylib linguist-vendored           
-*.bin linguist-vendored
+*.bin linguist-vendored  
