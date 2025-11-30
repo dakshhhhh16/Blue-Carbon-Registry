@@ -11,7 +11,7 @@
 
 ## ✅ Tasks Completed
 - [x] **UI/UX Design:** Designed an intuitive and modern user interface for all user roles (NGO, Verifier, Admin).
-- [x] **Frontend Development:** Built a responsive frontend using React, TypeScript, and Shadcn/UI
+- [x] **Frontend Development:** Built a responsive frontend using React, TypeScript, and Shadcn/UI.
 - [x] **User Dashboards:** Implemented dedicated dashboards for NGOs, Verifiers, and Administrators.
 - [x] **Blockchain Integration:** Integrated Solana wallet connectivity for transactions and authentication.
 - [x] **AI Assistant:** Developed an AI-powered chatbot using the Gemini API to guide users through project submission.
