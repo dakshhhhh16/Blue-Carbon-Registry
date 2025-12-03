@@ -18,7 +18,7 @@
 - [x] **MRV Components:** Created UI components for the Monitoring, Reporting, and Verification (MRV) workflow, including map comparators and data analysis tabs.
 - [x] **Backend Setup:** Established a Node.js/Express server to handle API requests for AI report generation and satellite data.
 - [ ] **Smart Contract Development:** (In Progress) Designing on-chain programs for minting carbon credit NFTs.
-- [ ] **Full MRV Automation:** (In Progress) Integrating satellite imagery analysis pipeline.
+- [ ] **Full MRV Automation:** (In Progress) Integrating satellite imagery analysis pipeline..
 
 ---
 
