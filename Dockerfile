@@ -1,5 +1,4 @@
 # Dockerfile for a TypeScript/Node.js Web Application
-
 # ---- Builder Stage ----
 # Use a specific Node.js version for reproducibility
 FROM node:18-alpine AS builder
