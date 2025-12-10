@@ -5,7 +5,6 @@ FROM node:18-alpine AS builder
 
 # Set the working directory inside the container
 WORKDIR /app
-
 # Copy package files and install dependencies
 # This layer is cached by Docker if package*.json files don't change
 COPY package*.json ./
