@@ -16,7 +16,6 @@ COPY . .
 
 # Build the TypeScript project
 RUN npm run build
-
 # ---- Production Stage ----
 # Use a slim, secure base image for the final container
 FROM node:18-alpine AS production
